@@ -1,6 +1,5 @@
-package br.com.springboot.backend;
+package br.com.springboot.backend.domain;
 
-import br.com.springboot.backend.domain.ZipCode;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

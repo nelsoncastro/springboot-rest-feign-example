@@ -1,5 +1,7 @@
 package br.com.springboot.backend;
 
+import br.com.springboot.backend.domain.ZipCode;
+import br.com.springboot.backend.domain.ZipCodeService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.ApplicationArguments;

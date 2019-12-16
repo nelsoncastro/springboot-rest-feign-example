@@ -1,4 +1,4 @@
-package br.com.springboot.backend;
+package br.com.springboot.backend.domain;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
