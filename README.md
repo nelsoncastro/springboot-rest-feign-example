@@ -1,1 +1,1 @@
- Feign Client with Spring Boot Example 
+ Feign Client with Spring Boot Sample 
