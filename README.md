@@ -1,1 +1,1 @@
- Feign Client with Spring Boot Sample 
+ # Sample project using Feign HTTP Client with Spring Boot
